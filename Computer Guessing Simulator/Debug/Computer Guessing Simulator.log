@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\kevin\documents\visual studio 2015\projects\computer guessing simulator\computer guessing simulator\source.cpp(18): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kevin\documents\visual studio 2015\projects\computer guessing simulator\computer guessing simulator\source.cpp(51): warning C4244: 'initializing': conversion from 'time_t' to 'long', possible loss of data
+  Computer Guessing Simulator.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Computer Guessing Simulator\Debug\Computer Guessing Simulator.exe
+  Computer Guessing Simulator.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Computer Guessing Simulator\Debug\Computer Guessing Simulator.pdb (Partial PDB)
